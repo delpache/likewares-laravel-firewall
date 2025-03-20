@@ -1,8 +1,8 @@
 <?php
 
-namespace Akaunting\Firewall\Tests;
+namespace Likewares\Firewall\Tests;
 
-use Akaunting\Firewall\Provider;
+use Likewares\Firewall\Provider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
 
 abstract class TestCase extends BaseTestCase

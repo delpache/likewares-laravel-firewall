@@ -1,9 +1,9 @@
 <?php
 
-namespace Akaunting\Firewall\Tests\Feature;
+namespace Likewares\Firewall\Tests\Feature;
 
-use Akaunting\Firewall\Middleware\Xss;
-use Akaunting\Firewall\Tests\TestCase;
+use Likewares\Firewall\Middleware\Xss;
+use Likewares\Firewall\Tests\TestCase;
 
 class XssTest extends TestCase
 {

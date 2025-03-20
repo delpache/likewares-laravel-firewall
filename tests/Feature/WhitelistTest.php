@@ -1,9 +1,9 @@
 <?php
 
-namespace Akaunting\Firewall\Tests\Feature;
+namespace Likewares\Firewall\Tests\Feature;
 
-use Akaunting\Firewall\Middleware\Whitelist;
-use Akaunting\Firewall\Tests\TestCase;
+use Likewares\Firewall\Middleware\Whitelist;
+use Likewares\Firewall\Tests\TestCase;
 
 class WhitelistTest extends TestCase
 {
